@@ -14,10 +14,6 @@ The project includes quantum circuits and instructions for running them on a sim
 
 For contributions, please submit issues or pull requests to this repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For questions or collaboration opportunities, please reach out:
