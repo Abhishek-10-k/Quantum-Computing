@@ -6,15 +6,6 @@ This project focuses on understanding the core principles of quantum computing: 
 - Grasp the principles of superposition and entanglement.
 - Observe these phenomena through practical quantum circuit simulations.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-### Prerequisites
-
-- A quantum computing environment or simulator.
-- Basic knowledge of quantum mechanics and quantum circuits.
-
 ## Usage
 
 The project includes quantum circuits and instructions for running them on a simulator. Visualize and analyze the output to observe the principles of superposition and entanglement in action.
