@@ -2,7 +2,7 @@
 
 This project focuses on understanding the core principles of quantum computing: superposition and entanglement. Quantum circuits using Hadamard and CNOT gates are created to explore these fundamental concepts. The circuits are then run on a quantum simulator to visualize and analyze the results.
 
-### Objectives
+## Objectives
 - Grasp the principles of superposition and entanglement.
 - Observe these phenomena through practical quantum circuit simulations.
 
